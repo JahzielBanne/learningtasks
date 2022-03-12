@@ -1,0 +1,174 @@
+body {
+    background-image: url(bgpic.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+#mainbox {
+    width:1325px;
+    height: 900px;
+    background-color:darkolivegreen;
+    opacity: 95%;
+}
+#mainbox #firstrow {
+    height:350px;
+    width:100%;
+}
+#mainbox #secondrow {
+    width:100%;
+    height:350px;
+}
+#mainbox #firstrow .sinigang {
+    width:15%;
+    height:100%;
+    padding:5px;
+    border: solid 2px aqua;
+    margin-left: 3%;
+    margin-bottom: 1%;
+    float:left;
+    color: beige; 
+}
+#mainbox #firstrow .sinigang img{
+    width:100%;
+}
+#mainbox #firstrow .sinigang p {
+    font-size:12px; 
+}
+#mainbox #firstrow .adobo {
+    width:15%;
+    height:100%;
+    padding:5px;
+    border: solid 2px aqua;
+    margin-left:3%;
+    margin-bottom: 1%;
+    float:left;
+    color: beige; 
+}
+#mainbox #firstrow .adobo img{
+    width:100%;
+}
+#mainbox #firstrow .adobo p {
+    font-size:12px;
+}
+#mainbox #firstrow .menudo {
+    width:15%;
+    height:100%;
+    padding:5px;
+    border: solid 2px aqua;
+    margin-left:3%;
+    margin-bottom: 1%;
+    float:left;
+    color: beige; 
+}
+#mainbox #firstrow .menudo img{
+    width:100%;
+}
+#mainbox #firstrow .menudo p {
+    font-size:12px;
+}
+#mainbox #firstrow .icecream {
+    width:15%;
+    height:100%;
+    padding:5px;
+    border: solid 2px aqua;
+    margin-left:3%;
+    margin-bottom: 1%;
+    float:left;
+    color: beige;
+}
+#mainbox #firstrow .icecream img{
+    width:100%;
+}
+#mainbox #firstrow .icecream p {
+    font-size:12px;
+} 
+#mainbox #firstrow .bukosalad {
+    width:15%;
+    height:100%;
+    padding:5px;
+    border: solid 2px aqua;
+    margin-left:3%;
+    margin-bottom: 1%;
+    float:left;
+    color: beige; 
+}
+#mainbox #firstrow .bukosalad img{
+    width:100%;
+}
+#mainbox #firstrow .bukosalad p {
+    font-size:12px;
+}
+#mainbox #secondrow .spag {
+    width:15%;
+    height:100%;
+    padding:5px;
+    border: solid 2px aqua;
+    margin-left:3%;
+    float:left;
+    color: beige; 
+}
+#mainbox #secondrow .spag img{
+    width:100%;
+}
+#mainbox #secondrow .spag p {
+    font-size:12px;
+}
+#mainbox #secondrow .fries {
+    width:15%;
+    height:100%;
+    padding:5px;
+    border: solid 2px aqua;
+    margin-left:3%;
+    float:left;
+    color: beige; 
+}
+#mainbox #secondrow .fries img{
+    width:100%;
+}
+#mainbox #secondrow .fries p {
+    font-size:12px;
+}
+#mainbox #secondrow .beef {
+    width:15%;
+    height:100%;
+    padding:5px;
+    border: solid 2px aqua;
+    margin-left:3%;
+    float:left;
+    color: beige; 
+}
+#mainbox #secondrow .beef img{
+    width:100%;
+}
+#mainbox #secondrow .beef p {
+    font-size:12px;
+}
+#mainbox #secondrow .burger {
+    width:15%;
+    height:100%;
+    padding:5px;
+    border: solid 2px aqua;
+    margin-left:3%;
+    float:left;
+    color: beige; 
+}
+#mainbox #secondrow .burger img{
+    width:100%;
+}
+#mainbox #secondrow .burger p {
+    font-size:12px;
+}
+#mainbox #secondrow .corndog {
+    width:15%;
+    height:100%;
+    padding:5px;
+    border: solid 2px aqua;
+    margin-left:3%;
+    float:left;
+    color: beige; 
+}
+#mainbox #secondrow .corndog img{
+    width:100%;
+}
+#mainbox #secondrow .corndog p {
+    font-size:12px;
+}
