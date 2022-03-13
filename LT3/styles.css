@@ -4,18 +4,21 @@ body {
     background-size: cover;
 }
 #mainbox {
-    width:1325px;
-    height: 900px;
+    width:100%;
+    height: 950px;
     background-color:darkolivegreen;
+    background-size:cover;
     opacity: 95%;
+    margin:0;
+    padding:0;
 }
 #mainbox #firstrow {
-    height:350px;
+    height:400px;
     width:100%;
 }
 #mainbox #secondrow {
     width:100%;
-    height:350px;
+    height:400px;
 }
 #mainbox #firstrow .sinigang {
     width:15%;
@@ -29,6 +32,7 @@ body {
 }
 #mainbox #firstrow .sinigang img{
     width:100%;
+    height:40%;
 }
 #mainbox #firstrow .sinigang p {
     font-size:12px; 
@@ -45,6 +49,7 @@ body {
 }
 #mainbox #firstrow .adobo img{
     width:100%;
+    height:40%;
 }
 #mainbox #firstrow .adobo p {
     font-size:12px;
@@ -61,6 +66,7 @@ body {
 }
 #mainbox #firstrow .menudo img{
     width:100%;
+    height:40%;
 }
 #mainbox #firstrow .menudo p {
     font-size:12px;
@@ -77,6 +83,7 @@ body {
 }
 #mainbox #firstrow .icecream img{
     width:100%;
+    height:40%;
 }
 #mainbox #firstrow .icecream p {
     font-size:12px;
@@ -93,6 +100,7 @@ body {
 }
 #mainbox #firstrow .bukosalad img{
     width:100%;
+    height:40%;
 }
 #mainbox #firstrow .bukosalad p {
     font-size:12px;
@@ -108,6 +116,7 @@ body {
 }
 #mainbox #secondrow .spag img{
     width:100%;
+    height:40%;
 }
 #mainbox #secondrow .spag p {
     font-size:12px;
@@ -123,6 +132,7 @@ body {
 }
 #mainbox #secondrow .fries img{
     width:100%;
+    height:40%;
 }
 #mainbox #secondrow .fries p {
     font-size:12px;
@@ -138,6 +148,7 @@ body {
 }
 #mainbox #secondrow .beef img{
     width:100%;
+    height:40%;
 }
 #mainbox #secondrow .beef p {
     font-size:12px;
@@ -153,6 +164,7 @@ body {
 }
 #mainbox #secondrow .burger img{
     width:100%;
+    height:40%;
 }
 #mainbox #secondrow .burger p {
     font-size:12px;
@@ -168,6 +180,7 @@ body {
 }
 #mainbox #secondrow .corndog img{
     width:100%;
+    height:40%;
 }
 #mainbox #secondrow .corndog p {
     font-size:12px;
