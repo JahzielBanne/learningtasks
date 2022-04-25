@@ -1,0 +1,538 @@
+body{
+    background-color: #97cf8a;
+    background-size: cover;
+}
+#main {
+    width: 100%;
+    height: 960px;
+}
+#main h1{
+    text-align: center;
+    color:#315e26;
+}
+#main #rowone{
+    width:100%;
+    height:75%;
+}
+#main #rowone .five{
+    float:left;
+    width:22%;
+    height:100%;
+    margin-left: 2%;
+    text-align: center;
+    background-color: #315e26;
+    color:#b1dd9e;
+    position: relative;
+}
+#main #rowone .five h2{
+    height:7%;
+    width: 100%;
+    text-align: center;
+}
+#main #rowone .five .container {
+  position: relative;
+}
+
+#main #rowone .five .image {
+  display: block;
+  width: 100%;
+  height: auto;
+}
+
+#main #rowone .five .overlay {
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  background-color: #7a9f79;
+  overflow: hidden;
+  width: 100%;
+  height: 0;
+  transition: .5s ease;
+  opacity: 90%;
+}
+
+#main #rowone .five .container:hover .overlay {
+  height: 100%;
+}
+
+#main #rowone .five .text {
+  color: white;
+  font-size: 20px;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  -webkit-transform: translate(-50%, -50%);
+  -ms-transform: translate(-50%, -50%);
+  transform: translate(-50%, -50%);
+    text-align: center;
+}
+#main #rowone .five h4{
+    text-align: center;
+}
+#main #rowone .five a{
+    color:#acd1af;
+    text-decoration: none
+}
+#main #rowone .five a:hover{
+    color:#97cf8a;
+}
+#main #rowone .space{
+    float:left;
+    width:22%;
+    height:100%;
+    margin-left: 2%;
+    text-align: center;
+    background-color:#315a39;
+    color:#acd1af;
+}
+#main #rowone .space h2{
+    height:7%;
+    width: 100%;
+    text-align: center;
+}
+#main #rowone .space img{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+#main #rowone .space h4{
+    text-align: center;
+}
+#main #rowone .space .container {
+  position: relative;
+}
+
+#main #rowone .space .image {
+  display: block;
+  width: 100%;
+  height: auto;
+}
+
+#main #rowone .space .overlay {
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  background-color: #7a9f79;
+  overflow: hidden;
+  width: 100%;
+  height: 0;
+  transition: .5s ease;
+  opacity: 90%;
+}
+
+#main #rowone .space .container:hover .overlay {
+  height: 100%;
+}
+
+#main #rowone .space .text {
+  color: white;
+  font-size: 20px;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  -webkit-transform: translate(-50%, -50%);
+  -ms-transform: translate(-50%, -50%);
+  transform: translate(-50%, -50%);
+    text-align: center;
+}
+#main #rowone .space a{
+    color:#97cf8a;
+    text-decoration: none
+}
+#main #rowone .space a:hover{
+    color:#acd1af;
+}
+#main #rowone .creep{
+    float:left;
+    width:22%;
+    height:100%;
+    margin-left: 2%;
+    text-align: center;
+    background-color: #315e26;
+    color:#b1dd9e;
+}
+#main #rowone .creep h2{
+    height:7%;
+    width: 100%;
+    text-align: center;
+}
+#main #rowone .creep h4{
+    text-align: center;
+}
+#main #rowone .creep .container {
+  position: relative;
+}
+
+#main #rowone .creep .image {
+  display: block;
+  width: 100%;
+  height: auto;
+}
+
+#main #rowone .creep .overlay {
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  background-color: #7a9f79;
+  overflow: hidden;
+  width: 100%;
+  height: 0;
+  transition: .5s ease;
+  opacity: 90%;
+}
+
+#main #rowone .creep .container:hover .overlay {
+  height: 100%;
+}
+
+#main #rowone .creep .text {
+  color: white;
+  font-size: 20px;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  -webkit-transform: translate(-50%, -50%);
+  -ms-transform: translate(-50%, -50%);
+  transform: translate(-50%, -50%);
+    text-align: center;
+}
+#main #rowone .creep a{
+    color:#acd1af;
+    text-decoration: none
+}
+#main #rowone .creep a:hover{
+    color:#97cf8a;
+}
+#main #rowone .mind{
+    float:left;
+    width:22%;
+    height:100%;
+    margin-left: 2%;
+    text-align: center;
+    background-color: #315a39;
+    color:#acd1af;
+}
+#main #rowone .mind h2{
+    height:7%;
+    width: 100%;
+    text-align: center;
+}
+#main #rowone .mind a img{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+#main #rowone .mind h4{
+    text-align: center;
+}
+#main #rowone .mind .container {
+  position: relative;
+}
+
+#main #rowone .mind .image {
+  display: block;
+  width: 100%;
+  height: auto;
+}
+
+#main #rowone .mind .overlay {
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  background-color: #7a9f79;
+  overflow: hidden;
+  width: 100%;
+  height: 0;
+  transition: .5s ease;
+  opacity: 90%;
+}
+
+#main #rowone .mind .container:hover .overlay {
+  height: 100%;
+}
+
+#main #rowone .mind .text {
+  color: white;
+  font-size: 20px;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  -webkit-transform: translate(-50%, -50%);
+  -ms-transform: translate(-50%, -50%);
+  transform: translate(-50%, -50%);
+    text-align: center;
+}
+#main #rowone .mind a{
+    color:#97cf8a;
+    text-decoration: none
+}
+#main #rowone .mind a:hover{
+    color:#acd1af;
+}
+#main #rowtwo{
+    width:100%;
+    height:70%;
+    margin-top: 2%;
+}
+#main #rowtwo .ride{
+    float:left;
+    width:22%;
+    height:100%;
+    margin-left: 2%;
+    text-align: center;
+    background-color: #315a39;
+    color:#acd1af;
+}
+#main #rowtwo .ride h2{
+    height:8%;
+    width: 100%;
+    text-align: center;
+}
+#main #rowtwo .ride a img{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+#main #rowtwo .ride h4{
+    text-align: center;
+}
+#main #rowtwo .ride .container {
+  position: relative;
+}
+
+#main #rowtwo .ride .image {
+  display: block;
+  width: 100%;
+  height: auto;
+}
+
+#main #rowtwo .ride .overlay {
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  background-color: #7a9f79;
+  overflow: hidden;
+  width: 100%;
+  height: 0;
+  transition: .5s ease;
+  opacity: 90%;
+}
+
+#main #rowtwo .ride .container:hover .overlay {
+  height: 100%;
+}
+
+#main #rowtwo .ride .text {
+  color: white;
+  font-size: 20px;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  -webkit-transform: translate(-50%, -50%);
+  -ms-transform: translate(-50%, -50%);
+  transform: translate(-50%, -50%);
+    text-align: center;
+}
+#main #rowtwo .ride a{
+    color:#97cf8a;
+    text-decoration: none
+}
+#main #rowtwo .ride a:hover{
+    color:#acd1af;
+}
+#main #rowtwo .you{
+    float:left;
+    width:22%;
+    height:100%;
+    margin-left: 2%;
+    text-align: center;
+    background-color: #315e26;
+    color:#b1dd9e;
+}
+#main #rowtwo .you h2{
+    height:8%;
+    width: 100%;
+    text-align: center;
+}
+#main #rowtwo .you a img{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+#main #rowtwo .you h4{
+    text-align: center;
+}
+#main #rowtwo .you .container {
+  position: relative;
+}
+
+#main #rowtwo .you .image {
+  display: block;
+  width: 100%;
+  height: auto;
+}
+
+#main #rowtwo .you .overlay {
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  background-color: #7a9f79;
+  overflow: hidden;
+  width: 100%;
+  height: 0;
+  transition: .5s ease;
+  opacity: 90%;
+}
+
+#main #rowtwo .you .container:hover .overlay {
+  height: 100%;
+}
+
+#main #rowtwo .you .text {
+  color: white;
+  font-size: 20px;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  -webkit-transform: translate(-50%, -50%);
+  -ms-transform: translate(-50%, -50%);
+  transform: translate(-50%, -50%);
+    text-align: center;
+}
+#main #rowtwo .you a{
+    color:#acd1af;
+    text-decoration: none
+}
+#main #rowtwo .you a:hover{
+    color:#97cf8a;
+}
+#main #rowtwo .sparks{
+    float:left;
+    width:22%;
+    height:100%;
+    margin-left: 2%;
+    text-align: center;
+    background-color: #315a39;
+    color:#acd1af;
+}
+#main #rowtwo .sparks h2{
+    height:8%;
+    width: 100%;
+    text-align: center;
+}
+#main #rowtwo .sparks h4{
+    text-align: center;
+}
+#main #rowtwo .sparks .container {
+  position: relative;
+}
+
+#main #rowtwo .sparks .image {
+  display: block;
+  width: 100%;
+  height: auto;
+}
+
+#main #rowtwo .sparks .overlay {
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  background-color: #7a9f79;
+  overflow: hidden;
+  width: 100%;
+  height: 0;
+  transition: .5s ease;
+  opacity: 90%;
+}
+
+#main #rowtwo .sparks .container:hover .overlay {
+  height: 100%;
+}
+
+#main #rowtwo .sparks .text {
+  color: white;
+  font-size: 20px;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  -webkit-transform: translate(-50%, -50%);
+  -ms-transform: translate(-50%, -50%);
+  transform: translate(-50%, -50%);
+    text-align: center;
+}
+#main #rowtwo .sparks a{
+    color:#97cf8a;
+    text-decoration: none
+}
+#main #rowtwo .sparks a:hover{
+    color:#acd1af;
+}
+#main #rowtwo .uni{
+    float:left;
+    width:22%;
+    height:100%;
+    margin-left: 2%;
+    text-align: center;
+    background-color: #315e26;
+    color:#b1dd9e;
+}
+#main #rowtwo .uni h2{
+    height:8%;
+    width: 100%;
+    text-align: center;
+}
+#main #rowtwo .uni h4{
+    text-align: center;
+}
+#main #rowtwo .uni .container {
+  position: relative;
+}
+
+#main #rowtwo .uni .image {
+  display: block;
+  width: 100%;
+  height: auto;
+}
+
+#main #rowtwo .uni .overlay {
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  background-color: #7a9f79;
+  overflow: hidden;
+  width: 100%;
+  height: 0;
+  transition: .5s ease;
+  opacity: 90%;
+}
+
+#main #rowtwo .uni .container:hover .overlay {
+  height: 100%;
+}
+
+#main #rowtwo .uni .text {
+  color: white;
+  font-size: 20px;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  -webkit-transform: translate(-50%, -50%);
+  -ms-transform: translate(-50%, -50%);
+  transform: translate(-50%, -50%);
+    text-align: center;
+}
+#main #rowtwo .uni a{
+    color:#acd1af;
+    text-decoration: none
+}
+#main #rowtwo .uni a:hover{
+    color:#97cf8a;
+}

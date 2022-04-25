@@ -1,0 +1,178 @@
+body{
+    background-color: #97cf8a;
+    background-size: cover;
+}
+#main {
+    width: 100%;
+    height: 960px;
+}
+#main #rowone .five img:hover{
+    background-color: aqua;
+}
+#main h1{
+    text-align: center;
+}
+#main #rowone{
+    width:100%;
+    height:75%;
+}
+#main #rowone .five{
+    float:left;
+    width:22%;
+    height:100%;
+    margin-left: 2%;
+    text-align: justify;
+    background-color: #315e26;
+    color:#b1dd9e;
+}
+#main #rowone .five h2{
+    height:7%;
+    width: 100%;
+    text-align: center;
+}
+#main #rowone .five a img{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+#main #rowone .five img:hover{
+ background-color: aqua;
+}
+#main #rowone .space{
+    float:left;
+    width:22%;
+    height:100%;
+    margin-left: 2%;
+    text-align: justify;
+    background-color:#315a39;
+    color:#acd1af;
+}
+#main #rowone .space h2{
+    height:7%;
+    width: 100%;
+    text-align: center;
+}
+#main #rowone .space a img{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+#main #rowone .creep{
+    float:left;
+    width:22%;
+    height:100%;
+    margin-left: 2%;
+    text-align: justify;
+    background-color: #315e26;
+    color:#b1dd9e;
+}
+#main #rowone .creep h2{
+    height:7%;
+    width: 100%;
+    text-align: center;
+}
+#main #rowone .creep a img{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+#main #rowone .mind{
+    float:left;
+    width:22%;
+    height:100%;
+    margin-left: 2%;
+    text-align: justify;
+    background-color: #315a39;
+    color:#acd1af;
+}
+#main #rowone .mind h2{
+    height:7%;
+    width: 100%;
+    text-align: center;
+}
+#main #rowone .mind a img{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+#main #rowtwo{
+    width:100%;
+    height:65%;
+    margin-top: 2%;
+}
+#main #rowtwo .ride{
+    float:left;
+    width:22%;
+    height:100%;
+    margin-left: 2%;
+    text-align: justify;
+    background-color: #315a39;
+    color:#b1dd9e;
+}
+#main #rowtwo .ride h2{
+    height:8%;
+    width: 100%;
+    text-align: center;
+}
+#main #rowtwo .ride a img{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+#main #rowtwo .you{
+    float:left;
+    width:22%;
+    height:100%;
+    margin-left: 2%;
+    text-align: justify;
+    background-color: #315e26;
+    color:#acd1af;
+}
+#main #rowtwo .you h2{
+    height:8%;
+    width: 100%;
+    text-align: center;
+}
+#main #rowtwo .you a img{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+#main #rowtwo .sparks{
+    float:left;
+    width:22%;
+    height:100%;
+    margin-left: 2%;
+    text-align: justify;
+    background-color: #315a39;
+    color:#b1dd9e;
+}
+#main #rowtwo .sparks h2{
+    height:8%;
+    width: 100%;
+    text-align: center;
+}
+#main #rowtwo .sparks a img{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+#main #rowtwo .uni{
+    float:left;
+    width:22%;
+    height:100%;
+    margin-left: 2%;
+    text-align: justify;
+    background-color: #315e26;
+    color:#acd1af;
+}
+#main #rowtwo .uni h2{
+    height:8%;
+    width: 100%;
+    text-align: center;
+}
+#main #rowtwo .uni a img{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
