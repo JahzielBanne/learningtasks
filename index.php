@@ -12,6 +12,7 @@
     <li><a href="/CLE1MT/index.html" target= "_blank"> CLE1 MIDTERM </a> </li>
     <li><a href="/LT4/index.html" target= "_blank"> LEARNING TASK 4 </a> </li>
     <li><a href="/LT5/index.html" target= "_blank"> LEARNING TASK 5 </a> </li>
+    <li><a href="/CLE1/index.php" target= "_blank"> CLE1 FINALS </a> </li>
   </ul>
   </body>
 </html>
